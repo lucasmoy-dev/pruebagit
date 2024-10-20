@@ -1,3 +1,5 @@
+PRUEBA
+
 Account-generated:  Time(2003/19/8/19/16)  IP(127.0.0.0)
 [NAME]
 account-name     = master
